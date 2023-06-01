@@ -62,4 +62,4 @@ Nikhil Shendge
 - `cvzone` library: [cvzone](https://github.com/cvzone/cvzone)
 - OpenCV Library: [OpenCV](https://opencv.org/)
 
-![Object Detection with PPE](results\output.png)
+![Object Detection with PPE](output.png)
